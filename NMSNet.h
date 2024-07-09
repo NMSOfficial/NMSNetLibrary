@@ -196,6 +196,6 @@ private:
 
 std::mutex Logger::log_mutex_;
 
-} // namespace NMSNet
+} // NMSNet
 
 #endif // NMSNET_H
